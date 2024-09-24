@@ -2,9 +2,10 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 👦 Meu nome é Luan Silva, meu primeiro printf("Hello World") foi por volta de 2018, tenho uma grande admiração por café e jogos.
+- 🤔 Busco explorar novas tecnologias e desenvolver soluções onde eu estiver.
 - 🎓 Estudando {Ciência da Computação} no {Centro Universitário Farias Brito - FB UNI}.
-- 💼 Trabalhando como {DevOps/Fullstack Web Developer Jr.} no {HDMJBO - Frotinha da Parangaba}.
+- 💼 Trabalhando como {DevOps/Fullstack Web Developer Jr.} no {HDMJBO - Frotinha da Parangaba (1 ano)}.
 - 🌱 Aprendendo mais sobre {FrontEnd, BackEnd, SysAdmin, DevOps, etc...}.
 
 ## Minhas Skills
