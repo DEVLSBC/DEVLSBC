@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando {Ciência da Computação} no {Centro Universitário Farias Brito - FB UNI}.
-- 💼 Trabalhando como {DevOps/Fullstack Web Developer} no {HDMJBO - Frotinha da Parangaba}.
+- 💼 Trabalhando como {DevOps/Fullstack Web Developer Jr.} no {HDMJBO - Frotinha da Parangaba}.
 - 🌱 Aprendendo mais sobre {FrontEnd, BackEnd, SysAdmin, DevOps, etc...}.
 
 ## Minhas Skills
