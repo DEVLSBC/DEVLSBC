@@ -31,9 +31,9 @@
 
 <br/>
 
-<a href="https://github.com/DEVLSBC" title="Perfil do Luan">
+<!--!<a href="https://github.com/DEVLSBC" title="Perfil do Luan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlsbc&theme=dracula&show_icons=true" />
-</a>
+</a>-->
 
 ## Onde me encontrar
 
