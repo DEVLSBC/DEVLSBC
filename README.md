@@ -5,7 +5,6 @@
 - 👦 Meu nome é Luan Silva, meu primeiro printf("Hello World") foi por volta de 2018, tenho uma grande admiração por café e jogos.
 - 🤔 Busco explorar novas tecnologias e desenvolver soluções onde eu estiver.
 - 🎓 Estudando {Ciência da Computação} no {Centro Universitário Farias Brito - FB UNI}.
-- 💼 Trabalhando como {DevOps/Fullstack Web Developer Jr.} no {HDMJBO - Frotinha da Parangaba (1 ano)}.
 - 🌱 Aprendendo mais sobre {FrontEnd, BackEnd, SysAdmin, DevOps, etc...}.
 
 ## Minhas Skills
@@ -39,5 +38,5 @@
 ## Onde me encontrar
 
 <!-- [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN) -->
-[![Gmail Badge](https://img.shields.io/badge/-luan.sbc07@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luan.sbc07@gmail.com)](mailto:luan.sbc07@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-luansbc.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luansbc.dev@gmail.com)](mailto:luansbc.dev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/devlsbc?label=follow&style=social)](https://github.com/DEVLSBC)
